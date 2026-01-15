@@ -1,6 +1,6 @@
 [![MasterHead](https://miro.medium.com/max/2400/1*UYV-gWa2_IYLFvISQl8Vkw.jpeg)]
 <h1 align="center">Hi 👋, I'm Harika</h1>
-<h3 align="center">✨Currently pursuing✍️BTECH🎀at🏫JNTU-GV in Computer Science💻</h3>
+<h3 align="center">✨Currently pursuing✍️MTECH🎀at🏫IIT Hyderabad in Computer Science💻</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harikaraja&label=Profile%20views&color=0e75b6&style=flat" alt="harikaraja" /> </p>
